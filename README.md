@@ -17,8 +17,11 @@ The audit scope includes the entire security program at Botium Toys, covering IT
 
 ### Goals
 - Assess existing IT assets and classify them by criticality
+  
 - Complete controls and compliance checklist
+  
 - Identify gaps in security controls and compliance
+  
 - Provide actionable recommendations to improve overall security posture
 
 ## Methodology
@@ -36,12 +39,19 @@ The internal IT audit followed the NIST Cybersecurity Framework (CSF) guidelines
 The audit revealed several vulnerabilities and gaps in Botium Toys’ IT environment:
 
 - **Asset Management:** Inadequate tracking and classification of assets; all employees currently have access to critical data, including cardholder information and PII.
+  
 - **Data Protection:** Lack of encryption for sensitive data; no intrusion detection system (IDS) implemented.
+
 - **Access Controls:** Least privilege and separation of duties not enforced; nominal password policy without centralized enforcement.
+
 - **Disaster Recovery:** No formal disaster recovery plan or backups for critical systems.
+  
 - **Compliance:** Partial compliance with E.U. GDPR requirements; gaps in best practices for risk and control management.
+  
 - **Physical Security:** The physical office, store, and warehouse are secured with locks, CCTV, and fire prevention systems.
+  
 - **Legacy Systems:** Monitored manually but without a regular schedule or clear intervention methods.
+  
 - **Strengths:** Firewalls and antivirus software are implemented and monitored; data availability and integrity measures in place.
 
 ## Recommendations
