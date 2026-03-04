@@ -91,5 +91,5 @@ Based on the audit findings, the following recommendations are proposed to impro
 - **Legacy System Management**: Assessed risks associated with legacy systems and proposed upgrades/migration strategies for cloud-based environments.
   
 - **Documentation & Reporting**: Produced professional audit documentation, summarizing methodology, findings, and actionable recommendations.
--   
+  
 - **Analytical & Problem-Solving Skills**: Applied structured thinking to identify risks, prioritize remediation, and propose practical solutions.
