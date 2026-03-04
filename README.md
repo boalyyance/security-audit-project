@@ -22,6 +22,7 @@ The audit scope includes the entire security program at Botium Toys, covering IT
 - Provide actionable recommendations to improve overall security posture
 
 ## Methodology
+
 The internal IT audit followed the NIST Cybersecurity Framework (CSF) guidelines:
 
 1. **Review of IT Assets** – Inventory of all IT assets including devices, software, network, and physical assets.  
@@ -59,12 +60,8 @@ Based on the audit findings, the following recommendations are proposed to impro
 - **Data Protection:**  
   - Encrypt sensitive data, including customer information, employee data, and critical system data, to protect against internal and external threats.  
   - Implement multi-factor authentication (MFA) for all critical accounts.
-
-- **Network Security:**  
-  - Deploy additional firewalls and configure SIEM tools to monitor and detect threats in system logs.  
-  - Implement an Intrusion Detection System (IDS) to identify and respond to potential network intrusions.  
-  - Segment networks containing critical or sensitive assets to harden infrastructure against attacks.
-
+  - Implement (ISD) tool to monitor network traffic or system activities for malicious activity, unauthorized access, or policy violations.
+    
 - **Disaster Recovery:**  
   - Develop and implement a disaster recovery plan, including regular backups of critical data.  
   - Ensure continuity of business operations in the event of incidents or attacks.
@@ -79,13 +76,20 @@ Based on the audit findings, the following recommendations are proposed to impro
 
 ## Skills Demonstrated
 
-- **Risk Assessment & Analysis**: Conducted a detailed risk assessment of IT assets, identifying vulnerabilities, potential threats, and gaps in controls.  
-- **Security Control Evaluation**: Evaluated technical, administrative, and physical security controls, including firewalls, antivirus, access controls, and legacy system management.  
-- **Regulatory Compliance Awareness**: Assessed compliance with NIST CSF and relevant U.S. and E.U. regulations, including GDPR and data privacy requirements.  
-- **Access Management & Least Privilege**: Applied principles of least privilege, proper user access controls, and centralized account/password management policies.  
-- **Data Protection & Encryption**: Evaluated encryption needs and data protection mechanisms to safeguard sensitive information.  
-- **Network Security Fundamentals**: Reviewed network segmentation, firewall deployment, IDS, and monitoring strategies using SIEM tools.  
-- **Disaster Recovery & Business Continuity Planning**: Designed recommendations for backup strategies and disaster recovery plans to maintain operational continuity.  
-- **Legacy System Management**: Assessed risks associated with legacy systems and proposed upgrades/migration strategies for cloud-based environments.  
-- **Documentation & Reporting**: Produced professional audit documentation, summarizing methodology, findings, and actionable recommendations.  
+- **Risk Assessment & Analysis**: Conducted a detailed risk assessment of IT assets, identifying vulnerabilities, potential threats, and gaps in controls. 
+
+- **Security Control Evaluation**: Evaluated technical, administrative, and physical security controls, including firewalls, antivirus, access controls, and legacy system management.
+    
+- **Regulatory Compliance Awareness**: Assessed compliance with NIST CSF and relevant U.S. and E.U. regulations, including GDPR and data privacy requirements.
+  
+- **Access Management & Least Privilege**: Applied principles of least privilege, proper user access controls, and centralized account/password management policies.
+  
+- **Data Protection & Encryption**: Evaluated encryption needs and data protection mechanisms to safeguard sensitive information.
+  
+- **Disaster Recovery & Business Continuity Planning**: Designed recommendations for backup strategies and disaster recovery plans to maintain operational continuity.
+   
+- **Legacy System Management**: Assessed risks associated with legacy systems and proposed upgrades/migration strategies for cloud-based environments.
+  
+- **Documentation & Reporting**: Produced professional audit documentation, summarizing methodology, findings, and actionable recommendations.
+-   
 - **Analytical & Problem-Solving Skills**: Applied structured thinking to identify risks, prioritize remediation, and propose practical solutions.
