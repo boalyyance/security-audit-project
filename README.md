@@ -34,6 +34,10 @@ The internal IT audit followed the NIST Cybersecurity Framework (CSF) guidelines
 4. **Compliance Review** – Compare practices against NIST CSF and relevant regulations.  
 5. **Documentation** – Compile findings and recommendations.
 
+**Supporting documents:**
+- [Scope, Goals, and Risk Assessment Report](./Risk_Assessment_Report.pdf)
+- [Controls Checklist](./Controls_Checklist.pdf)
+
 ## Findings
 
 The audit revealed several vulnerabilities and gaps in Botium Toys’ IT environment:
