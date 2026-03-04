@@ -22,31 +22,17 @@ The audit scope includes the entire security program at Botium Toys, covering IT
 - Provide actionable recommendations to improve overall security posture
 
 ## Methodology
-The internal IT audit for Botium Toys was conducted using a structured, professional approach, following the NIST Cybersecurity Framework (CSF) guidelines. The methodology included:
+The internal IT audit followed the NIST Cybersecurity Framework (CSF) guidelines:
 
-1. **Review of IT Assets**
-   - Compiled an inventory of all IT assets managed by the IT department, including employee devices, on-premises equipment, software, services, network infrastructure, and physical assets in the storefront and warehouse.
+1. **Review of IT Assets** – Inventory of all IT assets including devices, software, network, and physical assets.  
+2. **Risk Assessment** – Analyze gaps, identify vulnerabilities, assign risk scores.  
+3. **Control Evaluation** – Evaluate existing technical and administrative controls.  
+4. **Compliance Review** – Compare practices against NIST CSF and relevant regulations.  
+5. **Documentation** – Compile findings and recommendations.
 
-2. **Risk Assessment**
-   - Analyzed current asset management practices and identified gaps in controls.
-   - Assessed potential risks to confidentiality, integrity, and availability of critical data, including cardholder data and personally identifiable information (PII).
-   - Assigned a risk score (1–10) based on likelihood and potential impact.
-
-3. **Control Evaluation**
-   - Evaluated existing technical and administrative controls, including:
-     - Firewalls and antivirus monitoring
-     - Data availability and integrity mechanisms
-     - Access control practices
-     - Legacy system maintenance
-     - Physical security measures
-   - Identified missing or insufficient controls, such as lack of encryption, intrusion detection system (IDS), disaster recovery plans, and centralized password management.
-
-4. **Compliance Review**
-   - Assessed adherence to NIST CSF and applicable U.S. and E.U. regulations.
-   - Evaluated the company’s readiness for data privacy and breach notification obligations.
-
-5. **Documentation**
-   - Compiled findings, risks, and recommendations into a structured report for stakeholders.
+**Supporting documents:**
+- [Scope, Goals, and Risk Assessment Report](./)
+- [Controls Checklist](./Controls_Checklist.pdf)
 
 ## Findings
 
