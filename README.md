@@ -35,7 +35,7 @@ The internal IT audit followed the NIST Cybersecurity Framework (CSF) guidelines
 5. **Documentation** – Compile findings and recommendations.
 
 **Supporting documents:**
-- [Scope, Goals, and Risk Assessment Report](./Risk_Assessment_Report.pdf)
+- [Scope, Goals, and Risk Assessment Report](./[Risk_Assessment_Report.pdf](https://github.com/boalyyance/security-audit-project/blob/0aaa131041786740d68c3cbcb950f6df8f5b3a33/Scope_goals_risk%20assessment_report.pdf))
 - [Controls Checklist](./Controls_Checklist.pdf)
 
 ## Findings
